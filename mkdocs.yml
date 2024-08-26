@@ -5,7 +5,16 @@ theme:
 
 plugins:
   - tags:
-      tags_file: tags.md 
+      tags_file: tags.md
+  - blogging:
+      dirs:
+        - post
+      features:
+        tags:
+          index_page: tags.md
+          insert: bottom
+      time_format: ' %d-%m-%Y '
+
 
 markdown_extensions:
   - wikilinks
