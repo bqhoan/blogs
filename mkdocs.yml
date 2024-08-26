@@ -2,10 +2,11 @@ site_name: My Docs
 site_url: https://bqhoan.github.io/blogs/
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 plugins:
-  - tags:
-      tags_file: tags.md
   - blogging:
       dirs:
         - post
