@@ -4,9 +4,6 @@ theme:
   palette:
     primary: yellow
   name: material
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
 
 plugins:
   - blogging:
