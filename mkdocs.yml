@@ -2,7 +2,7 @@ site_name: My Docs
 site_url: https://bqhoan.github.io/blogs/
 theme:
   palette:
-    accent: yellow
+    primary: yellow
   name: material
   features:
     - navigation.tabs
