@@ -19,4 +19,6 @@ plugins:
 
 
 markdown_extensions:
-  - wikilinks
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
