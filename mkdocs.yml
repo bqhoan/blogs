@@ -1,6 +1,8 @@
 site_name: My Docs
 site_url: https://bqhoan.github.io/blogs/
 theme:
+  features:
+    - content.tabs.link
   palette:
     primary: yellow
   name: material
