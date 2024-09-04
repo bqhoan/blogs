@@ -1,6 +1,8 @@
-site_name: My Docs
-docs_dir: ./docs/
+site_name: blogs
+site_description: hoanbq's blog
 site_url: https://bqhoan.github.io/blogs/
+site_author: hoanbq
+
 
 theme:
   name: material
