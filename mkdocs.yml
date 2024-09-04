@@ -3,6 +3,7 @@ docs_dir: ./docs/
 site_url: https://bqhoan.github.io/blogs/
 theme:
   features:
+    - navigation.tabs
     - content.tabs.link
   palette:
     primary: yellow
