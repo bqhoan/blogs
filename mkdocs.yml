@@ -52,8 +52,8 @@ extra_javascript:
   - assets/javascripts/interactive_graph.js
 
 extra_css:
-  - assets/stylesheets/obsidian_tags.css
   - assets/stylesheets/interactive_graph.css
+  
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
