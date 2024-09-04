@@ -1,7 +1,22 @@
 site_name: My Docs
 docs_dir: ./docs/
 site_url: https://bqhoan.github.io/blogs/
+
 theme:
+  name: material
+  include_search_page: true
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: Source Code Pro
   features:
     - content.action.view
     - content.code.annotate
@@ -16,9 +31,6 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
-  palette:
-    primary: yellow
-  name: material
 
 plugins:
   - obsidian-interactive-graph
