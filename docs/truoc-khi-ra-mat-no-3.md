@@ -1,6 +1,5 @@
 ---
 filename: truoc-khi-ra-mat-no-3
-
 share: true
 comments: true
 tags:
