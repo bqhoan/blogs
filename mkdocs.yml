@@ -3,8 +3,19 @@ docs_dir: ./docs/
 site_url: https://bqhoan.github.io/blogs/
 theme:
   features:
-    - navigation.tabs
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
     - content.tabs.link
+    - navigation.expand
+    - navigation.indexes
+    # navigation.instant      # WARN: breaks some javascripts
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
   palette:
     primary: yellow
   name: material
