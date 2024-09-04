@@ -1,0 +1,106 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Welcome to MkDocs",
+      "symbolSize": 0,
+      "value": "/blogs/"
+    },
+    {
+      "id": "1",
+      "name": "2024 08 29",
+      "symbolSize": 0,
+      "value": "/blogs/2024-08-29/"
+    },
+    {
+      "id": "2",
+      "name": "Th\u00edch t\u00ean j m\u00e0 l\u1ea1i ch\u1ea3 \u0111\u01b0\u1ee3c",
+      "symbolSize": 0,
+      "value": "/blogs/Th%C3%ADch%20t%C3%AAn%20j%20m%C3%A0%20l%E1%BA%A1i%20ch%E1%BA%A3%20%C4%91%C6%B0%E1%BB%A3c/"
+    },
+    {
+      "id": "3",
+      "name": "After mile 20",
+      "symbolSize": 1,
+      "value": "/blogs/after-mile-20/"
+    },
+    {
+      "id": "4",
+      "name": "Demo",
+      "symbolSize": 0,
+      "value": "/blogs/demo/"
+    },
+    {
+      "id": "5",
+      "name": "Tags",
+      "symbolSize": 1,
+      "value": "/blogs/tags/"
+    },
+    {
+      "id": "6",
+      "name": "T\u00f4i \u0111i tim t\u00f4i",
+      "symbolSize": 0,
+      "value": "/blogs/toi-di-tim-toi/"
+    },
+    {
+      "id": "7",
+      "name": "Tr\u01b0\u1edbc khi ra m\u1eaft - No 3",
+      "symbolSize": 0,
+      "value": "/blogs/truoc-khi-ra-mat-no-3/"
+    },
+    {
+      "id": "8",
+      "name": "T\u1ef1 h\u1ecdc - m\u1ed9t nhu c\u1ea7u th\u1eddi \u0111\u1ea1i",
+      "symbolSize": 0,
+      "value": "/blogs/tu-hoc-mot-nhu-cau-thoi-dai/"
+    },
+    {
+      "id": "9",
+      "name": "Y\u00eau m\u1ebfn s\u1ef1 thinh l\u1eb7ng",
+      "symbolSize": 0,
+      "value": "/blogs/Obsidian/hahahaha/yeu-men-su-thinh-lang/"
+    },
+    {
+      "id": "10",
+      "name": "T\u00f4i \u0111i tim t\u00f4i",
+      "symbolSize": 0,
+      "value": "/blogs/Obsidian/properties/toi-di-tim-toi/"
+    },
+    {
+      "id": "11",
+      "name": "101",
+      "symbolSize": 0,
+      "value": "/blogs/math/101/"
+    },
+    {
+      "id": "12",
+      "name": "Hello there",
+      "symbolSize": 0,
+      "value": "/blogs/math/102/"
+    },
+    {
+      "id": "13",
+      "name": "2024 08 29",
+      "symbolSize": 0,
+      "value": "/blogs/math/2024-08-29/"
+    },
+    {
+      "id": "14",
+      "name": "Ti\u00eau \u0111\u1ec1 j ae \u01a1i",
+      "symbolSize": 0,
+      "value": "/blogs/math/tieu-de-j-ae-oi/"
+    },
+    {
+      "id": "15",
+      "name": "Y\u00eau m\u1ebfn s\u1ef1 thinh l\u1eb7ng",
+      "symbolSize": 0,
+      "value": "/blogs/math/yeu-men-su-thinh-lang/"
+    }
+  ],
+  "links": [
+    {
+      "source": "3",
+      "target": "5"
+    }
+  ]
+}
