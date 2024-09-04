@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50fb1f3b08b2e96e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thích tên j mà lại chả được.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b17f0def6827d5a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/math/yeu-men-su-thinh-lang.md",
+                "file": "docs/toi-di-tim-toi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/math/yeu-men-su-thinh-lang.md",
+                "file": "docs/toi-di-tim-toi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/math/yeu-men-su-thinh-lang.md",
+                "file": "docs/toi-di-tim-toi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/math/yeu-men-su-thinh-lang.md"
+                "file": "docs/toi-di-tim-toi.md"
               }
             }
           }
@@ -162,6 +149,17 @@
   },
   "active": "b17f0def6827d5a9",
   "lastOpenFiles": [
+    "tieu-de-j-ae-oi.md",
+    "docs/math/yeu-men-su-thinh-lang.md",
+    "docs/math/2024-08-29.md",
+    "docs/assets/stylesheets/obsidian_tags.css",
+    "docs/assets/stylesheets/interactive_graph.css",
+    "docs/assets/javascripts/obsidian_tags.js",
+    "docs/assets/javascripts/interactive_graph.js",
+    "docs/assets/stylesheets",
+    "docs/assets/javascripts",
+    "docs/assets",
+    "Thích tên j mà lại chả được.md",
     "docs/math/tieu-de-j-ae-oi.md",
     "docs/Thích tên j mà lại chả được.md",
     "docs/Obsidian/properties/toi-di-tim-toi.md",
@@ -171,20 +169,9 @@
     "docs/Obsidian",
     "docs/2024-08-29.md",
     "demo.md",
-    "docs/assets/stylesheets/obsidian_tags.css",
-    "docs/assets/stylesheets/interactive_graph.css",
-    "docs/assets/javascripts/obsidian_tags.js",
-    "docs/assets/javascripts/interactive_graph.js",
-    "docs/assets/stylesheets",
-    "docs/assets/javascripts",
-    "docs/assets",
     "docs/toi-di-tim-toi.md",
-    "docs/math/yeu-men-su-thinh-lang.md",
     "docs/tu-hoc-mot-nhu-cau-thoi-dai.md",
     "docs/truoc-khi-ra-mat-no-3.md",
-    "tieu-de-j-ae-oi.md",
-    "Thích tên j mà lại chả được.md",
-    "docs/demo.md",
-    "docs/math/2024-08-29.md"
+    "docs/demo.md"
   ]
 }
