@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "43d9daac0aa73cc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "410774188bf3211c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50fb1f3b08b2e96e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thích tên j mà lại chả được.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b17f0def6827d5a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/math/yeu-men-su-thinh-lang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb80cdc9921872aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9919a97b17426d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054e10fa15624086",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dc1814b9cf8130b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49915b6102e4ac95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d588dd4d47d56dcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "086bae62fa8c7e8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e195a1a545e4feb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/math/yeu-men-su-thinh-lang.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "587d132495f360ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/math/yeu-men-su-thinh-lang.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b0d4405585765a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4510ed6d0c14093a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/math/yeu-men-su-thinh-lang.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "b17f0def6827d5a9",
+  "lastOpenFiles": [
+    "docs/assets/stylesheets/obsidian_tags.css",
+    "docs/assets/stylesheets/interactive_graph.css",
+    "docs/assets/javascripts/obsidian_tags.js",
+    "docs/assets/javascripts/interactive_graph.js",
+    "docs/assets/stylesheets",
+    "docs/assets/javascripts",
+    "docs/assets",
+    "docs/toi-di-tim-toi.md",
+    "docs/math/yeu-men-su-thinh-lang.md",
+    "docs/tu-hoc-mot-nhu-cau-thoi-dai.md",
+    "docs/truoc-khi-ra-mat-no-3.md",
+    "tieu-de-j-ae-oi.md",
+    "Thích tên j mà lại chả được.md",
+    "docs/demo.md",
+    "docs/math/2024-08-29.md"
+  ]
+}

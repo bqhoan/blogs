@@ -1,4 +1,5 @@
 site_name: My Docs
+docs_dir: ./docs/
 site_url: https://bqhoan.github.io/blogs/
 theme:
   features:
@@ -8,6 +9,7 @@ theme:
   name: material
 
 plugins:
+  - obsidian-interactive-graph
   - blogging:
       dirs:
         - post
@@ -17,7 +19,14 @@ plugins:
           insert: bottom
       time_format: ' %d-%m-%Y '
 
+extra_javascript:
+  - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
+  - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
+  - assets/javascripts/interactive_graph.js
 
+extra_css:
+  - assets/stylesheets/obsidian_tags.css
+  - assets/stylesheets/interactive_graph.css
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:

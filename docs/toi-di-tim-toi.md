@@ -1,3 +1,8 @@
+---
+share: true
+category: Obsidian/properties
+---
+
 # Tôi đi tim tôi
 
 Có những tối nghe mưa rơi thật buồn
